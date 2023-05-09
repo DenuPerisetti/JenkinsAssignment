@@ -1,0 +1,10 @@
+
+public class ThirdOne {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Jenkins");
+		// TODO Auto-generated method stub
+
+	}
+
+}
